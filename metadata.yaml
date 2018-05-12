@@ -1,0 +1,31 @@
+_repo: Robin_18945
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Hodgson, Frances Eliza
+    - Townesend, Frances Eliza Hodgson Burnett
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: Sequel to The head of the house of Coombe.
+gutenberg_issued: '2006-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18945'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'World War, 1914-1918 -- England -- Fiction'
+- !lcc 'PS'
+title: Robin
+url: http://www.gutenberg.org/ebooks/18945
