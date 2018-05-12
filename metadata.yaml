@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/73
     wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
 description: Sequel to The head of the house of Coombe.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18945#Robin
 gutenberg_issued: '2006-07-30'
 gutenberg_type: Text
 identifiers:
